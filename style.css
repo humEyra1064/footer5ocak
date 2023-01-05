@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+    /* box-sizing: border-box; */
+}
+.footer{
+    background-color: chocolate;
+    display: flex;
+    justify-content: center;
+    gap: 70px;
+    align-items: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}
+.container{
+    width: 230px;
+    /* background-color: aquamarine; */
+    padding: 20px;
+    text-align: center;
+}
+img{
+    width: 150px;
+    margin: 15px;
+}
+h3{
+    margin: 10px;
+}
+.icons{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+    /* background-color: yellow; */
+    margin: 8px;
+}
